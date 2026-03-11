@@ -1,4 +1,4 @@
-# ============================================================
+============================================================
 # REQUIREMENTS & SETUP GUIDE
 # Peer-to-Peer Energy Trading Smart Contract
 # Module: COMP5125M Blockchain Technologies
